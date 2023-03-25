@@ -1,4 +1,4 @@
-# ERS
+# Yelp Camp
 
 ### Welcome !
 Jump right in and explore locations.
